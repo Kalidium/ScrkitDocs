@@ -20,3 +20,10 @@ slug: /
 |[Meow](./meow/start.md)           |原神 |电脑 |⚠️   |⛔   |2r   |12r   |50r  |130r |⭐⭐   |⭐⭐   |
 |[MuuPro](./muupro/start.md)       |星铁 |电脑 |✅   |✅   |/    |6.6r  |30r  |60r  |⭐⭐   |⭐⭐⭐|
 |[Minty-hsr](./minty-hsr/start.md) |星铁 |电脑 |✅   |✅   |/    |/     |/    |64r  |⭐⭐⭐ |⭐⭐⭐|
+
+## 对于3.4私服玩家
+
+*我们专门为3.4私服玩家保留Acrepi、Bkebi的3.4最后一个可用版本。(AK3.4版本已经闭源收费)*  
+  
+**「** [https://scrkit.com/uploads/Acrepi-3.4-latest.zip](https://scrkit.com/uploads/Acrepi-3.4-latest.zip) **」**  
+**「** [https://scrkit.com/uploads/Bkebi-3.4-latest.zip-3.4-latest.zip](https://scrkit.com/uploads/Bkebi-3.4-latest.zip-3.4-latest.zip) **」**  
