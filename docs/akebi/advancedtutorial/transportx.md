@@ -23,7 +23,3 @@ title: 自定义传送
 ### Akebi 载入自定义点位
 
 <video controls height='100%' width='100%' src="https://scrkit.com/docs/akebi/transportx.mp4"></video>
-
-### [搭配推荐配置使用](../recommended.md)
-
-> 干什么事情，选什么功能，不要一股脑都开启！
