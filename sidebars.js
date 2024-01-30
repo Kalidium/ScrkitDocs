@@ -16,7 +16,6 @@ const sidebars = {
             'akebi/advancedtutorial/lincense',
           ],
         },
-        'akebi/recommended',
         'akebi/problem',
         'akebi/question',
       ],
