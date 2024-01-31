@@ -23,7 +23,7 @@ slug: /
 
 ## 对于3.4私服玩家
 
-*我们专门为3.4私服玩家保留Acrepi、Bkebi的3.4最后一个可用版本。(AK3.4版本已经闭源收费)*  
-  
+*我们专门为3.4私服玩家保留Acrepi、Bkebi的3.4最后一个可用版本。(Akbei3.4版本已经闭源收费)*  
+
 **「** [https://scrkit.com/uploads/Acrepi-3.4-latest.zip](https://scrkit.com/uploads/Acrepi-3.4-latest.zip) **」**  
 **「** [https://scrkit.com/uploads/Bkebi-3.4-latest.zip-3.4-latest.zip](https://scrkit.com/uploads/Bkebi-3.4-latest.zip-3.4-latest.zip) **」**  

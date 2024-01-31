@@ -24,7 +24,7 @@ slug: /meow
 
 ## 下载 Meow
 
-> + **「** [https://scrkit.com/uploads/Meow](https://scrkit.com/uploads/Meow.rar) **」**
+> + **「** [https://scrkit.com/uploads/Meow](https://scrkit.com/uploads/Meow.zip) **」**
 > + 若下载缓慢或下载失败，请进入 [**`SK 售后群`**](https://scrkit.com/qqgroup) 下载。
 
 ## 购买卡密

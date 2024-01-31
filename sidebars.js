@@ -51,7 +51,7 @@ const sidebars = {
         'minty-hsr/start',
       ],
     },
-    "unit/unit",
+    "unit",
   ],
 };
 
