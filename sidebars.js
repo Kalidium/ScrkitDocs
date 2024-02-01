@@ -30,7 +30,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: '内部科技',
+      label: 'Mgc',
       items: [
         'mgc/start',
       ],
