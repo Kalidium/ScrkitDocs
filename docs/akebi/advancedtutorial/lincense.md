@@ -2,19 +2,17 @@
 title: 密钥管理
 ---
 
-# 密钥管理
-
 <head>
   <meta charset="utf-8" />
   <meta name="description" content="Akebi 官方教程(原Akebi-GC/Acrepi)，最全面的 Akebi 中文参考文档。"/>
-  <meta name="keywords" content="Akebi,Akebi-GC,Akebi教程"/>
-  <meta name="author" content="Akebi,Akebi-GC,Acrepi"/>
+  <meta name="keywords" content="Akebi,Akebi-GC,Acrepi,Bkebi,Genshin,原神辅助,原神外挂"/>
+  <meta name="author" content="Akebi,Akebi-GC,Acrepi,Bkebi,Genshin,原神辅助,原神外挂"/>
 </head>
 
+# 密钥管理
+
 :::tip
-
 日卡、周卡、月卡分别可以换绑一、一、三次。仅月卡可以暂停一次。**`凡是在 SCRkit 购买的同学可联系管理员处理。`**
-
 :::
 
 # 绑定至 Discord 账号

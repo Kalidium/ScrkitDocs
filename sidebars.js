@@ -30,6 +30,13 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: '内部科技',
+      items: [
+        'mgc/start',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Meow',
       items: [
         'meow/start',

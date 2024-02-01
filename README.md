@@ -23,4 +23,4 @@ yarn build
 ```
 
 ## 使用准则 
-> **构建、修改、借鉴[此仓库](https://github.com/Kalidium/ScrkitDocs)内的文档，必须链接到[此仓库](https://github.com/Kalidium/ScrkitDocs)并注明来源于[Scrkit](https://scrkit.com/docs)。**
+> **构建、修改、借鉴[此仓库](https://github.com/Kalidium/ScrkitDocs)内的文档，必须在您的文档链接[此仓库](https://github.com/Kalidium/ScrkitDocs)并注明来源于[Scrkit](https://scrkit.com/docs)。**

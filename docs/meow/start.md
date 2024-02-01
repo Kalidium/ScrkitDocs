@@ -3,14 +3,14 @@ title: 初窥门径
 slug: /meow
 ---
 
-# Meow 启动 ⚡ 
-
 <head>
   <meta charset="utf-8" />
   <meta name="description" content="Meow 官方教程，最全面的 Meow 中文参考文档。"/>
-  <meta name="keywords" content="Meow"/>
-  <meta name="author" content="Meow"/>
+  <meta name="keywords" content="Meow,Genshin,原神辅助,原神外挂"/>
+  <meta name="author" content="Meow,Genshin,原神辅助,原神外挂"/>
 </head>
+
+# Meow 启动 ⚡ 
 
 ## 关闭杀毒软件
 

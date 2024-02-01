@@ -2,14 +2,14 @@
 title: 配置文件
 ---
 
-# 配置文件
-
 <head>
   <meta charset="utf-8" />
   <meta name="description" content="Akebi 官方教程(原Akebi-GC/Acrepi)，最全面的 Akebi 中文参考文档。"/>
-  <meta name="keywords" content="Akebi,Akebi-GC,Akebi教程"/>
-  <meta name="author" content="Akebi,Akebi-GC,Acrepi"/>
+  <meta name="keywords" content="Akebi,Akebi-GC,Acrepi,Bkebi,Genshin,原神辅助,原神外挂"/>
+  <meta name="author" content="Akebi,Akebi-GC,Acrepi,Bkebi,Genshin,原神辅助,原神外挂"/>
 </head>
+
+# 配置文件
 
 :::danger
 **`.svg`** 文件记录了旅行者的 `UID` 和 `卡密`，所以请不要将 **`.svg`** 随便发给别人！

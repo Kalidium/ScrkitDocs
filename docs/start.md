@@ -3,6 +3,13 @@ title: 文档总览
 slug: /
 ---
 
+<head>
+  <meta charset="utf-8" />
+  <meta name="description" content="ScrkitDocs 官方教程，最全面的 原神辅助 中文参考文档。"/>
+  <meta name="keywords" content="Akebi,Orin,Bkebi,Acrepi,PaimonPro,Unicore,Orin,KFC,Meow,Mgc"/>
+  <meta name="author" content="Akebi,Orin,Bkebi,Acrepi,PaimonPro,Unicore,Orin,KFC,Meow,Mgc"/>
+</head>
+
 :::tip 提醒
 **本教程只对 [`SK 用户`](https://scrkit.com/qqgroup) 负责，其他第三方购买的卡密请自行解决。使用本教程请善擅用搜索功能！**
 :::
@@ -16,7 +23,8 @@ slug: /
 |昵称                              |适用于|平台 |国服 |外服  |时卡 |天卡  |周卡 |月卡  |功能指数 |稳定指数|
 |:---                              |:---:|:---:|:---:|:---:|:---:|:---: |:---:|:---:|:---    |:---   |
 |[Akebi](./akebi/start.md)         |原神 |电脑 |⚙️   |✅   |/    |14.9r |58r  |128r |⭐⭐⭐ |⭐⭐  |
-|[PaimonPro](./paimonpro/start.md) |原神 |电脑 |⚠️   |⛔   |/    |12r   |58r  |138r |⭐      |⭐⭐⭐|
+|[PaimonPro](./paimonpro/start.md) |原神 |电脑 |✅   |⛔   |/    |12r   |58r  |138r |⭐      |⭐⭐⭐|
+|[内部科技](./mgc/start.md)         |原神 |电脑 |✅   |⛔   |2.5r |12r   |/    |120r  |⭐⭐⭐ |⭐⭐⭐|
 |[Meow](./meow/start.md)           |原神 |电脑 |⚠️   |⛔   |2r   |12r   |50r  |130r |⭐⭐   |⭐⭐   |
 |[MuuPro](./muupro/start.md)       |星铁 |电脑 |✅   |✅   |/    |6.6r  |30r  |60r  |⭐⭐   |⭐⭐⭐|
 |[Minty-hsr](./minty-hsr/start.md) |星铁 |电脑 |✅   |✅   |/    |/     |/    |64r  |⭐⭐⭐ |⭐⭐⭐|

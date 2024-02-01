@@ -3,18 +3,18 @@ title: 初窥门径
 slug: /akebi
 ---
 
+<head>
+  <meta charset="utf-8" />
+  <meta name="description" content="Akebi 官方教程(原Akebi-GC/Acrepi)，最全面的 Akebi 中文参考文档。"/>
+  <meta name="keywords" content="Akebi,Akebi-GC,Acrepi,Bkebi,Genshin,原神辅助,原神外挂"/>
+  <meta name="author" content="Akebi,Akebi-GC,Acrepi,Bkebi,Genshin,原神辅助,原神外挂"/>
+</head>
+
 :::caution
 请提前将原神窗口化，以避免输入不了卡密导致原神白屏未响应。
 :::
 
 # Akebi 启动 ⚡ ️
-
-<head>
-  <meta charset="utf-8" />
-  <meta name="description" content="Akebi 官方教程(原Akebi-GC/Acrepi)，最全面的 Akebi 中文参考文档。"/>
-  <meta name="keywords" content="Akebi,Akebi-GC,Akebi教程"/>
-  <meta name="author" content="Akebi,Akebi-GC,Acrepi"/>
-</head>
 
 ## 关闭杀毒软件
 

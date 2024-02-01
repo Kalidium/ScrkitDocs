@@ -3,14 +3,14 @@ title: 初窥门径
 slug: /paimonpro
 ---
 
-# PaimonPro 启动 ⚡ ️
-
 <head>
   <meta charset="utf-8" />
   <meta name="description" content="PaimonPro 官方教程，最全面的 PaimonPro 中文参考文档。"/>
-  <meta name="keywords" content="PaimonPro,Unicore"/>
-  <meta name="author" content="PaimonPro,Unicore"/>
+  <meta name="keywords" content="PaimonPro,Unicore,Genshin,原神辅助,原神外挂"/>
+  <meta name="author" content="PaimonPro,Unicore,Genshin,原神辅助,原神外挂"/>
 </head>
+
+# PaimonPro 启动 ⚡ ️
 
 > (原 Unicore) 最安全的原神工具，所有功能已经过测试。
 
@@ -56,8 +56,8 @@ slug: /paimonpro
 网络连接不稳定，建议开启热点/代理/加速器（择一选择即可） 代理节点选择欧服或者香港节点
 使用奇游加速器选择Apex→加速欧服→只勾选路由模式，然后刷新→智能连接
 另外建议在执行该步操作之前先尝试  
-Ⅰ 重启电脑   
-Ⅱ 重新下载 PaimonPro 再次尝试注入 
+I 重启电脑   
+II 重新下载 PaimonPro 再次尝试注入 
 
 若出现蓝屏问题，请更换 专业版 Windows10-22h2。  
 ```

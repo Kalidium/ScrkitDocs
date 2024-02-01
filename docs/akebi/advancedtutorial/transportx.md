@@ -2,14 +2,14 @@
 title: 自定义传送
 ---
 
-# 自定义传送
-
 <head>
   <meta charset="utf-8" />
   <meta name="description" content="Akebi 官方教程(原Akebi-GC/Acrepi)，最全面的 Akebi 中文参考文档。"/>
-  <meta name="keywords" content="Akebi,Akebi-GC,Akebi教程"/>
-  <meta name="author" content="Akebi,Akebi-GC,Acrepi"/>
+  <meta name="keywords" content="Akebi,Akebi-GC,Acrepi,Bkebi,Genshin,原神辅助,原神外挂"/>
+  <meta name="author" content="Akebi,Akebi-GC,Acrepi,Bkebi,Genshin,原神辅助,原神外挂"/>
 </head>
+
+# 自定义传送
 
 **很多人使用 Akebi 就是为了寻找宝箱、收集神瞳、获得各种材料。那么请仔细阅读这里。**
 

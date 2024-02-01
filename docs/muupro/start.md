@@ -3,14 +3,14 @@ title: 初窥门径
 slug: /muupro
 ---
 
-# MuuPro 启动 ⚡ ️
-
 <head>
   <meta charset="utf-8" />
   <meta name="description" content="MuuPro 官方教程，最全面的 MuuPro 中文参考文档。"/>
-  <meta name="keywords" content="MuuPro"/>
-  <meta name="author" content="MuuPro"/>
+  <meta name="keywords" content="MuuPro,Genshin,原神辅助,原神外挂"/>
+  <meta name="author" content="MuuPro,Genshin,原神辅助,原神外挂"/>
 </head>
+
+# MuuPro 启动 ⚡ ️
 
 ## 关闭杀毒软件
 
@@ -56,8 +56,8 @@ slug: /muupro
 网络连接不稳定，建议开启热点/代理/加速器（择一选择即可） 代理节点选择欧服或者香港节点
 使用奇游加速器选择Apex→加速欧服→只勾选路由模式，然后刷新→智能连接
 另外建议在执行该步操作之前先尝试   
-Ⅰ 重启电脑   
-Ⅱ 重新下载 MuuPro 再次尝试注入 
+I 重启电脑   
+II 重新下载 MuuPro 再次尝试注入 
 
 若出现蓝屏问题，请更换 专业版 Windows10-22h2。  
 ```
