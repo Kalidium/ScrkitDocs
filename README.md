@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    <a href="https://docusaurus.io">
+    <a href="https://scrkit.com">
       <img src="https://scrkit.com/assets/common/images/default.png" alt="ScrkitDocs" height="100" weight="100">
     </a>
   </h1>
