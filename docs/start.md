@@ -14,7 +14,7 @@ slug: /
 **本教程只对 [`SK 用户`](https://scrkit.com/qqgroup) 负责，其他第三方购买的卡密请自行解决。使用本教程请善擅用搜索功能！**
 :::
 
-# 更新于 2024/2/01
+# 更新于 2024/2/02
 ![Alt](https://repobeats.axiom.co/api/embed/c06d0314210e8d947c6e522ceec35dd5617335c1.svg "Repobeats analytics image")
 
 ## 原神类工具当前版本概况
