@@ -58,6 +58,7 @@ const sidebars = {
         'minty-hsr/start',
       ],
     },
+    "promotion",
     "unit",
   ],
 };

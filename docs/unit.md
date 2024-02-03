@@ -20,5 +20,5 @@ slug: /unit
 ### 2024年1月
 > *截至2024年1月31日 累计卖出周卡、月卡 20 张*
 > 
-><details><summary>捐款记录</summary><img src="https://scrkit.com/docs/unit/202401.jpg" /></details>
-><details><summary>出卡记录</summary>202401 周卡出卡记录 (其中有1张为无效出卡)<br/><img src="https://scrkit.com/docs/unit/202401w.png" /><br/>202401 月卡出卡记录 (其中有2张为无效出卡)<br/><img src="https://scrkit.com/docs/unit/202401m.png" /></details>
+><details><summary>捐款记录</summary><img src="https://scrkit.com/docs/unit/202401.jpg"/></details>
+><details><summary>出卡记录</summary>202401 周卡出卡记录 (其中有1张为无效出卡)<br/><img src="https://scrkit.com/docs/unit/202401w.png"/><br/>202401 月卡出卡记录 (其中有2张为无效出卡)<br/><img src="https://scrkit.com/docs/unit/202401m.png"/></details>
