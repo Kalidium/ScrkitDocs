@@ -40,4 +40,4 @@ slug: /mgc
 > + **远程协助购买链接** **「** [**https://scrkit.com/remote**](https://scrkit.com/remote) **」**  
 
 ## 什么是安全码
-![](mgc1.png)
+<img src="https://scrkit.com/docs/mgc/mgc1.png"/>

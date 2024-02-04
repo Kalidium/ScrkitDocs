@@ -21,8 +21,8 @@ const config = {
     [
       'classic',
       ({
-        docs: {
-		    routeBasePath: '/',
+        docs: {		      
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: false,
@@ -46,6 +46,7 @@ const config = {
 
   themeConfig:
     ({
+      image: 'https://scrkit.com/docs/favicon.ico',
       colorMode: {
         respectPrefersColorScheme: true,
       },

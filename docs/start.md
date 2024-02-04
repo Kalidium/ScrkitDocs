@@ -10,20 +10,21 @@ slug: /
   <meta name="author" content="Akebi,Orin,Bkebi,Acrepi,PaimonPro,Unicore,Orin,KFC,Meow,Mgc"/>
 </head>
 
+# 文档更新于 2024/2/05
+
 :::tip 提醒
-**本教程只对 [`SK 用户`](https://scrkit.com) 负责，其他第三方购买的卡密请自行解决。使用本教程请善擅用搜索功能！「[点我加群](https://scrkit.com/qqgroup) 」**
+**本教程仅对 [`SK 用户`](https://scrkit.com) 负责，其他第三方购买的卡密请自行解决。使用本教程请善擅用搜索功能！「[点我加群](https://scrkit.com/qqgroup) 」**
 :::
 
-# 更新于 2024/2/04
 ![Alt](https://repobeats.axiom.co/api/embed/c06d0314210e8d947c6e522ceec35dd5617335c1.svg "Repobeats analytics image")
 
 ## 原神类工具当前版本概况
 ✅ **可用** ⚙️ **更新中** ⚠️ **封禁概率高** ⛔ **不支持对应服务器**  
 |昵称                              |平台 |国服 |外服  |时卡 |天卡  |周卡 |月卡  |功能指数 |稳定指数|
 |:---                              |:---:|:---:|:---:|:---:|:---: |:---:|:---:|:---    |:---   |
-|[Akebi](./akebi/start.md)         |电脑 |⚙️   |✅   |/    |14.9r |58r  |128r |⭐⭐⭐ |⭐⭐  |
+|[Akebi](./akebi/start.md)         |电脑 |⚠️   |✅   |/    |14.9r |58r  |128r |⭐⭐⭐ |⭐⭐  |
 |[PaimonPro](./paimonpro/start.md) |电脑 |✅   |⛔   |/    |12r   |58r  |138r |⭐      |⭐⭐⭐|
-|[Mgc](./mgc/start.md)         |电脑 |✅   |⛔   |2.5r |12r   |/    |120r  |⭐⭐⭐|⭐⭐⭐|
+|[Mgc](./mgc/start.md)             |电脑 |⚠️   |⛔   |2.5r |12r   |/    |120r  |⭐⭐⭐|⭐⭐⭐|
 |[Meow](./meow/start.md)           |电脑 |⚠️   |⛔   |2r   |12r   |50r  |130r |⭐⭐   |⭐⭐   |
 
 ## 星铁类工具当前版本概况
