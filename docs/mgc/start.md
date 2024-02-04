@@ -38,3 +38,6 @@ slug: /mgc
  
 > `日卡利润太低不提供远程服务，请额外购买远程协助服务。` 
 > + **远程协助购买链接** **「** [**https://scrkit.com/remote**](https://scrkit.com/remote) **」**  
+
+## 什么是安全码
+![](mgc1.png)
