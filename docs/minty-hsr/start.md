@@ -32,6 +32,7 @@ slug: /minty-hsr
 > `周卡用户、月卡用户免费享受两次远程协助服务。`
 
 > + `查询密码` 自己填写，查询订单需要 `邮箱` 和 `查询密码`。
+> + **周卡购买链接** **「** [**https://scrkit.com/minty-hsr_7day**](https://scrkit.com/minty-hsr_7day) **」**
 > + **月卡购买链接** **「** [**https://scrkit.com/minty-hsr_30day**](https://scrkit.com/minty-hsr_30day) **」**
  
 > `日卡利润太低不提供远程服务，请额外购买远程协助服务。` 
