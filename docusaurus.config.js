@@ -2,7 +2,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 const config = {
   title: 'ScrDocs',
-  favicon: 'favicon.ico',
+  favicon: 'https://scrkit.com/docs/favicon.ico',
   url: 'https://scrkit.com/',
   baseUrl: '/docs',
   onBrokenLinks: 'throw',
@@ -37,7 +37,7 @@ const config = {
 		indexBlog: false,
 		docsRouteBasePath: "/",
         hashed: false,
-        language: ["en", "zh"],
+        language: ["zh"],
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
       }),

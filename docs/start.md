@@ -10,7 +10,7 @@ slug: /
   <meta name="author" content="Akebi,Orin,Bkebi,Acrepi,PaimonPro,Unicore,Orin,KFC,Meow,Mgc"/>
 </head>
 
-# 文档更新于 2024/2/05
+# 文档更新于 2024/2/12
 
 :::tip 提醒
 **本教程仅对 [`SK 用户`](https://scrkit.com) 负责，其他第三方购买的卡密请自行解决。使用本教程请善擅用搜索功能！「[点我加群](https://scrkit.com/qqgroup) 」**
@@ -31,8 +31,7 @@ slug: /
 ✅ **可用** ⚙️ **更新中** ⚠️ **封禁概率高** ⛔ **不支持对应服务器**  
 |昵称                              |平台 |国服 |外服  |时卡 |天卡  |周卡 |月卡  |功能指数 |稳定指数|
 |:---                              |:---:|:---:|:---:|:---:|:---: |:---:|:---:|:---    |:---   |
-|[MuuPro](./muupro/start.md)       |电脑 |✅   |⛔   |/    |6.6r  |30r  |60r  |⭐⭐   |⭐⭐⭐|
-|[Minty-hsr](./minty-hsr/start.md) |电脑 |✅   |✅   |/    |/     |/    |64r  |⭐⭐⭐ |⭐⭐⭐|
+|[Minty-hsr](./minty-hsr/start.md) |电脑 |✅   |✅   |/    |/     |20r  |60r  |⭐⭐⭐ |⭐⭐⭐|
 
 ## 对于原神3.4私服玩家
 

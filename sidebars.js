@@ -45,14 +45,6 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'MuuPro',
-      items: [
-        'muupro/start',
-        'muupro/problem',
-      ],
-    },
-    {
-      type: 'category',
       label: 'Minty-hsr',
       items: [
         'minty-hsr/start',

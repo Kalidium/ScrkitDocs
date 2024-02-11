@@ -12,18 +12,19 @@ title: 配置文件
 # 配置文件
 
 :::danger
-**`.svg`** 文件记录了旅行者的 `UID` 和 `卡密`，所以请不要将 **`.svg`** 随便发给别人！
+**`.conf`** 文件记录了旅行者的 `UID` 和 `卡密`，所以请不要将 **`.conf`** 随便发给别人！  
+事实上，akebi 为了躲避检测，文件后缀名可能会不定期更换。
 :::
 
-> 使用 Akebi 时，你的游戏路径会被记录在 **`.bin`** 中，你所勾选的功能和所做的调整将会被实时记录在 **`.svg`** 中。
+> 启动 Akebi 时，你的游戏路径会被记录在 **`.dll`** 中，你所勾选的功能和所做的调整将会被实时记录在 **`.conf`** 中。
 
-```json title=".bin"
+```json title=".dll"
 [GenshinImpact]
 // 原神的运行路径
 Path = D:\Program Files\Genshin Impact\Genshin Impact Game\YuanShen.exe
 ```
 
-```json title=".svg"
+```json title=".conf"
 {
     "current_profile": "default",
     "profiles": {
